@@ -23,14 +23,99 @@ Assignments
 
 Problem sets for this course can be found in _Physical Chemistry_ (Sibley, et al).
 
-| ASSIGNMENTS | READINGS |
-| --- | --- |
-| Problem set 1 | Chapters 1, 2.1-2.8 |
-| Problem set 2 | Chapter 2.9-2.13 |
-| Problem set 3 | Chapter 3.1-3.5, 3.7, 3.9 |
-| Problem set 4 | Chapters 3.8, 4.1-4.4, 4.6-4.7, 4.9 |
-| Problem set 5 | Chapter 5.1, 5.3-5.8 |
-| Problem set 6 | Chapter 6.1-6.5, 6.7 |
-| Problem set 7 | Chapter 16.1-16.2, 16.9-16.10 |
-| Problem set 8 | Chapter 16.3-16.4, 16.12-16.13 |
-| Problem set 9 | pp. 641-667
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1, 2.1-2.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2.9-2.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.1-3.5, 3.7, 3.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3.8, 4.1-4.4, 4.6-4.7, 4.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.1, 5.3-5.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 6
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.1-6.5, 6.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 7
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16.1-16.2, 16.9-16.10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 8
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16.3-16.4, 16.12-16.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 9
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 641-667
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

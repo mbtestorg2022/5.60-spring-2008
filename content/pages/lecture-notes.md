@@ -6,41 +6,450 @@ uid: 74591afb-232e-eb20-5c41-17359f843701
 
 The lecture handouts are available in the table below. Please note that there were no lecture notes for session #36.
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | State of a system, 0th law, equation of state | ([PDF]({{< baseurl >}}/resources/5_60_lecture1)) |
-| 2 | Work, heat, first law | ([PDF]({{< baseurl >}}/resources/5_60_lecture2)) |
-| 3 | Internal energy, expansion work | ([PDF]({{< baseurl >}}/resources/5_60_lecture3)) |
-| 4 | Enthalpy | ([PDF]({{< baseurl >}}/resources/5_60_lecture4)) |
-| 5 | Adiabatic changes | ([PDF]({{< baseurl >}}/resources/5_60_lecture5)) |
-| 6 | Thermochemistry | ([PDF]({{< baseurl >}}/resources/5_60_lecture6)) |
-| 7 | Calorimetry | ([PDF]({{< baseurl >}}/resources/5_60_lecture7)) |
-| 8 | Second law | ([PDF]({{< baseurl >}}/resources/5_60_lecture8_9)) |
-| 9 | Entropy and the Clausius inequality | ([PDF]({{< baseurl >}}/resources/5_60_lecture9)) |
-| 10 | Entropy and irreversibility | ([PDF]({{< baseurl >}}/resources/5_60_lecture10)) |
-| 11 | Fundamental equation, absolute S, third law | ([PDF]({{< baseurl >}}/resources/5_60_lecture11)) |
-| 12 | Criteria for spontaneous change | ([PDF]({{< baseurl >}}/resources/5_60_lecture12)) |
-| 13 | Gibbs free energy | ([PDF]({{< baseurl >}}/resources/5_60_lecture13)) |
-| 14 | Multicomponent systems, chemical potential | ([PDF]({{< baseurl >}}/resources/5_60_lecture14)) |
-| 15 | Chemical equilibrium | ([PDF]({{< baseurl >}}/resources/5_60_lecture15)) |
-| 16 | Temperature, pressure and Kp | ([PDF]({{< baseurl >}}/resources/5_60_lecture16)) |
-| 17 | Equilibrium: application to drug design | ([PDF]({{< baseurl >}}/resources/5_60_lecture17)) |
-| 18 | Phase equilibria — one component | ([PDF]({{< baseurl >}}/resources/5_60_lecture18)) |
-| 19 | Clausius-Clapeyron equation | ([PDF]({{< baseurl >}}/resources/5_60_lecture19)) |
-| 20 | Phase equilibria — two components | ([PDF]({{< baseurl >}}/resources/5_60_lecture20)) |
-| 21 | Ideal solutions | ([PDF]({{< baseurl >}}/resources/5_60_lecture21)) |
-| 22 | Non-ideal solutions | ([PDF]({{< baseurl >}}/resources/5_60_lecture22)) |
-| 23 | Colligative properties | ([PDF]({{< baseurl >}}/resources/5_60_lecture23)) |
-| 24 | Introduction to statistical mechanics | ([PDF]({{< baseurl >}}/resources/5_60_lecture24)) |
-| 25 | Partition function (q) — large N limit | ([PDF]({{< baseurl >}}/resources/5_60_lecture25)) |
-| 26 | Partition function (Q) — many particles | ([PDF]({{< baseurl >}}/resources/5_60_lect26_27)) |
-| 27 | Statistical mechanics and discrete energy levels |
-| 28 | Model systems | ([PDF]({{< baseurl >}}/resources/5_60_lecture28)) |
-| 29 | Applications: chemical and phase equilibria | ([PDF]({{< baseurl >}}/resources/5_60_lecture29)) |
-| 30 | Introduction to reaction kinetics | ([PDF]({{< baseurl >}}/resources/5_60_lecture30)) |
-| 31 | Complex reactions and mechanisms | ([PDF]({{< baseurl >}}/resources/5_60_lecture31)) |
-| 32 | Steady-state and equilibrium approximations | ([PDF]({{< baseurl >}}/resources/5_60_lecture32)) |
-| 33 | Chain reactions | ([PDF]({{< baseurl >}}/resources/5_60_lecture33)) |
-| 34 | Temperature dependence, Ea, catalysis | ([PDF]({{< baseurl >}}/resources/5_60_lecture34)) |
-| 35 | Enzyme catalysis | ([PDF]({{< baseurl >}}/resources/5_60_lecture35)) |
-| 36 | Autocatalysis and oscillators |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+State of a system, 0th law, equation of state
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Work, heat, first law
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Internal energy, expansion work
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Enthalpy
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Adiabatic changes
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Thermochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Calorimetry
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Second law
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture8_9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Entropy and the Clausius inequality
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Entropy and irreversibility
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental equation, absolute S, third law
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Criteria for spontaneous change
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Gibbs free energy
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Multicomponent systems, chemical potential
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Temperature, pressure and Kp
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture16))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium: application to drug design
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture17))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Phase equilibria — one component
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture18))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Clausius-Clapeyron equation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture19))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Phase equilibria — two components
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture20))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal solutions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture21))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Non-ideal solutions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture22))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Colligative properties
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to statistical mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture24))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Partition function (q) — large N limit
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture25))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Partition function (Q) — many particles
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lect26_27))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical mechanics and discrete energy levels
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Model systems
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture28))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Applications: chemical and phase equilibria
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture29))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to reaction kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture30))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Complex reactions and mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture31))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Steady-state and equilibrium approximations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture32))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Chain reactions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture33))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Temperature dependence, Ea, catalysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture34))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Enzyme catalysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5_60_lecture35))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Autocatalysis and oscillators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
