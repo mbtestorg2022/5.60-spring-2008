@@ -5,6 +5,7 @@ description: Lecture notes on reversible adiabatic expansion (or compression) of
   pressure, and thermodynamic cycles.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-60-thermodynamics-kinetics-spring-2008/ab10710189fe5c16622dfa772a3c3edd_lec_5.pdf
 file_type: application/pdf
+parent_uid: 74591afb-232e-eb20-5c41-17359f843701
 resourcetype: Document
 title: Reversible Adiabatic Expansion (or compression) of an Ideal Gas
 uid: ab107101-89fe-5c16-622d-fa772a3c3edd
